@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Montserrat:wght@100;300&family=Roboto:ital,wght@0,100;0,300;0,700;1,500&display=swap');
+
+.nav-link{
+  color: #FFFFFF;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 23px;
+}
+
+#input-search{
+  background: #FFFFFF;
+}
+
+#btn-search{
+  color: #FFFFFF;
+  border-color: #FFFFFF;
+}
+
+#btn-search:hover {
+  background-color: #FFFFFF; /* Green */
+  color: #000000;
+  border-color: #000000;
+}
