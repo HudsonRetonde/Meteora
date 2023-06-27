@@ -5,12 +5,14 @@ import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { CabecalhoComponent } from './cabecalho/cabecalho.component';
 import { CarouselComponent } from './carousel/carousel.component';
+import { BodyComponent } from './body/body.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CabecalhoComponent,
-    CarouselComponent
+    CarouselComponent,
+    BodyComponent
   ],
   imports: [
     BrowserModule,
